@@ -8,6 +8,9 @@
 
 Join the discord - https://discord.gg/FWC8PpWtQv
 
+Loadstring:
+local ALib = loadstring(game:HttpGet("https://github.com/user-attachments/files/27452511/alib.txt"))()
+
 ## Resources:
 
 - [Maclib Documentation (Gitbook)](https://brady-xyz.gitbook.io/maclib-ui-library)
