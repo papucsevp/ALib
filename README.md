@@ -1,4 +1,4 @@
-# Maclib UI Library
+# ALib UI Library
 ![image](https://github.com/user-attachments/assets/991cd465-8a61-4753-9fa6-dfd590bc4322)
 
 - Extensive Documentation
@@ -15,3 +15,4 @@ Join the discord - https://discord.gg/FWC8PpWtQv
 ## Credits:
 
 - [dawid-scripts/Fluent](https://github.com/dawid-scripts/Fluent) - Configuration system.
+- [biggaboy212/Maclib](https://github.com/biggaboy212/Maclib) - Maclib (This is a fork of Maclib).
